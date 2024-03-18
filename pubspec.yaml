@@ -80,9 +80,9 @@ flutter:
       fonts:
         - asset: fonts/times new roman.ttf
           style: normal
-        - asset: fonts/times new roman_bold.ttf
+        - asset: fonts/times new roman bold.ttf
           weight: 700
-        - asset: fonts/times new roman_italic.ttf
+        - asset: fonts/times new roman italic.ttf
           style: italic
         - asset: fonts/times new roman bold italic.ttf
           weight: 700
